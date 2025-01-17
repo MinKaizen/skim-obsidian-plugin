@@ -1,9 +1,9 @@
 {
 	"id": "skim",
 	"name": "Skim",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Adds commands to navigate up/down multiple lines. Useful for skimming the page with the keyboard.",
+	"description": "Skim the page (move cursor multiple lines at a time) with your keyboard!",
 	"author": "Martin Cao",
 	"authorUrl": "https://github.com/MinKaizen/skim-obsidian-plugin",
 	"isDesktopOnly": false
