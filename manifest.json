@@ -5,6 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "Skim the page (move cursor multiple lines at a time) with your keyboard!",
 	"author": "Martin Cao",
-	"authorUrl": "https://github.com/MinKaizen/skim-obsidian-plugin",
+	"repo": "https://github.com/MinKaizen/skim-obsidian-plugin",
+	"authorUrl": "https://github.com/MinKaizen/",
 	"isDesktopOnly": false
 }
